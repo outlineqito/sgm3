@@ -1,0 +1,17 @@
+{
+	"ulid": "01K4CHNJ22MW71B82SAF4ZTD4B",
+	"minTime": 1757052009664,
+	"maxTime": 1757059200000,
+	"stats": {
+		"numSamples": 251280,
+		"numSeries": 2094,
+		"numChunks": 2094
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01K4CHNJ22MW71B82SAF4ZTD4B"
+		]
+	},
+	"version": 1
+}
